@@ -22,6 +22,19 @@
 Note: No programming assignments in this course.
 
 ### Course 4 : Convolutional Neural Networks
+*
+*
+*
+*
+*
+*
+*
 
 ### Course 5 : Sequence Models
-
+* Build RNN from Scratch
+* Character Level Language Model
+* Music Generation using LSTM
+* Debiasing Word Vectors
+* Emojify
+* Neural Machine Translation with Attention
+* Trigger Word Detection
