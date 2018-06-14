@@ -22,13 +22,13 @@
 Note: No programming assignments in this course.
 
 ### Course 4 : Convolutional Neural Networks
-*
-*
-*
-*
-*
-*
-*
+* Build CNN from Scratch
+* CNN Application using TensorFlow
+* Keras Tutoriial 
+* Building Residual Network
+* Car Detection using YOLO 
+* Art Generation using Neural Style Transfer
+* Face Recognition using FaceNet
 
 ### Course 5 : Sequence Models
 * Build RNN from Scratch
